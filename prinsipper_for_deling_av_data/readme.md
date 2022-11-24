@@ -9,6 +9,12 @@ For å sikre at arbeidet med å etablere felles standarder på tvers av samarbei
 
 ## 1. Overordnede prinsipper
 
+Arbeidet som gjøres innen standardisering skal ha konsumentene i fokus, med mål om at flest mulig skal kunne finne, forstå og ta i bruk datasett. 
+
+Datasett skal fortrinnsvis deles som åpne data. 
+
+Gjennom standardiseringen skal det etableres tydelige og relevante fellestrekk på tverrs av datasett fra ulike tilbydere for å gjøre det enklere å forstå datasett, og ta i bruk datasett på tvers av tilbydere. 
+
 | Punkt | Kategori | Prinsipp |
 | ------- | ------- | ------- |
 | 1.1 | Arbeid med orden i eget hus | Hver virksomhet er selv ansvarlig for prosessen med Orden i eget hus, og står fritt i valget av interne komponenter som teknologivalg, standarder, delingsmekanismer og videre. |
@@ -19,6 +25,10 @@ For å sikre at arbeidet med å etablere felles standarder på tvers av samarbei
 
 
 ### 2. Innhold
+
+Med innhold menes her selve dataene, for eksempel navngivning av kolonner, datoformater, koordinatreferanser, og lignende. 
+
+Samarbeidet skal jobbe mot at innholdet i alle datasett skal følge en datastandard, fortrinnsvis etablerte standarder dataene naturlig hører til. For data som faller utenom dette skal det jobbes mot at innholdet følger en minimumsstandard samarbeidet etablerer med utgangspunkt i anerkjente nasjonale eller internasjonale standarder. (datoer, koordinater, SI-enheter)
 
 | Punkt | Kategori | Prinsipp |
 | ------- | ------- | ------- |
@@ -31,6 +41,10 @@ For å sikre at arbeidet med å etablere felles standarder på tvers av samarbei
 
 ### 3. Tilgjengeliggjøring
 
+Samarbeidet skal jobbe mot at datasett deles gjennom like distribusjoner for like datasett. 
+
+Vurdering av tilgangsnivå skal følge en enhetlig praksis for samarbeidet der målet er at lik data vurderes likt på tvers av virksomhetene. Ved forskjellige vurderinger skal virksomhetene søke å finne en felles praksis.
+
 | Punkt | Kategori | Prinsipp |
 | ------- | ------- | ------- |
 | 3.1 | Distribusjonsalternativer | Data skal gjøres tilgjengelig på de formater hver enkelt standard, eller samarbeidet, spesifiserer. |
@@ -39,6 +53,9 @@ For å sikre at arbeidet med å etablere felles standarder på tvers av samarbei
 
 
 ### 4. Beskrivelser
+
+Samarbeidet skal jobbe mot at informasjonen som gis med et datasett skal være enhetlig strukturert, og sikre at forskjellige roller på konsumentsiden får nødvendig informasjon til å la seg inspirere av eller ta i bruk datasettet. Informasjonen som gis skal være tilstrekkelig til at datasettets innhold og kvalitet er kjent ved bruk. 
+
 
 | Punkt | Kategori | Prinsipp |
 | ------- | ------- | ------- |
@@ -51,6 +68,8 @@ For å sikre at arbeidet med å etablere felles standarder på tvers av samarbei
 
 ### 5. Koblinger til andre datasett og opphav
 
+Samarbeidet skal jobbe for å knytte datasett tettere sammen, gjennom arbeid med informasjonsmodeller på tvers, felles begrepsbruk og også dataopphav. 
+
 | Punkt | Kategori | Prinsipp |
 | ------- | ------- | ------- |
 | 5.1 | Informasjonsmodeller | Det skal legges til rette for at det er enkelt å koble informasjon fra forskjellige datasett. Dette gjelder både for datasett basert på samme standard, og for datasett med utgangspunkt i forskjellige standarder. |
@@ -59,6 +78,8 @@ For å sikre at arbeidet med å etablere felles standarder på tvers av samarbei
 
 
 ### 6. Innholdsoptimalisering mot konsument
+
+Samarbeidet skal jobbe mot at datasettene som deles skal gi så høy verdi som mulig for så mange som mulig. 
 
 | Punkt | Kategori | Prinsipp |
 | ------- | ------- | ------- |
