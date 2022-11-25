@@ -1,16 +1,16 @@
 # Prinsipper for deling av data
 
-KLADD
+Dette dokumentet inneholder samarbeidets prinsipper for deling av data, som representerer samarbeidets felles enighet om hvilke rammer som skal ligge til grunn for videre arbeid med mer detaljerte standarder og anbefalinger. Disse prinsippene er derfor etablert for å sikre en felles enighet i samarbeidet på konseptuelt eller overordnet nivå.
 
+Prinsippene vil innledningsvis revideres kvartalsvis i regi av prosjektet basert på samarbeidets innspill. 
 
 ## G. Generelle prinsipper
 
 | Punkt | Tema | Prinsipp |
 | ------- | ------- | ------- |
-| G.1 | Målgruppe | Arbeidet som gjøres innen tilrettelegging for deling av data skal ha konsumentene i fokus, med mål om at flest mulig skal kunne finne, innhente, forstå og ta i bruk datasett. Samtidig skal arbeidet ta hensyn til de involverte virksomhetenes kapasitet og evne til å implementere den tilretteleggingen det legges opp til. |
-| G.2 | Datasett | Det skal jobbes mot at all data som kan ha relevans utenfor egen virksomhet skal deles, fortrinnsvis som åpne data. For data som er begrenset av GDPR- eller konkurransehensyn, eller av andre grunner ikke er klare for å deles, skal informasjonen om dataene deles. |
-
-
+| G.1 | Forpliktelse | Virksomhetene bør etterstrebe å følge prinsippene som er beskrevet her, og detaljert ut som en del av samarbeidet. Der man må avvike fra prinsippene, skal det ikke være et hinder eller begrensning for å dele data. |
+| G.2 | Målgruppe | Arbeidet som gjøres innen tilrettelegging for deling av data skal ha konsumentene i fokus, med mål om at flest mulig skal kunne finne, innhente, forstå og ta i bruk datasett. Samtidig skal arbeidet ta hensyn til de involverte virksomhetenes kapasitet og evne til å implementere den tilretteleggingen det legges opp til. |
+| G.3 | Datasett | Det skal jobbes mot at all data som kan ha relevans utenfor egen virksomhet skal deles, fortrinnsvis som åpne data. For data som er begrenset av GDPR- eller konkurransehensyn, eller av andre grunner ikke er klare for å deles, skal informasjonen om dataene deles. |
 
 ## DA. Design- og arkitekturprinsipper
 
