@@ -8,7 +8,7 @@ Prinsippene vil innledningsvis revideres kvartalsvis i regi av prosjektet basert
 
 | Punkt | Tema | Prinsipp |
 | ------- | ------- | ------- |
-| G.1 | Forpliktelse | Etterlevelse av prinsipper og videre detaljering skal ikke begrense eller være til hinder for å dele data. Det er likevel forventet at virksomhetene jobber mot å følge de prinsipper og videre detaljeringer som samarbeidet sammen kommer frem til, selv om de ikke er forpliktet til det. |
+| G.1 | Forpliktelse | Virksomhetene bør etterstrebe å følge prinsippene som er beskrevet her, og detaljert ut som en del av samarbeidet. Der man må avvike fra prinsippene, skal det ikke være et hinder eller begrensning for å dele data. |
 | G.2 | Målgruppe | Arbeidet som gjøres innen tilrettelegging for deling av data skal ha konsumentene i fokus, med mål om at flest mulig skal kunne finne, innhente, forstå og ta i bruk datasett. Samtidig skal arbeidet ta hensyn til de involverte virksomhetenes kapasitet og evne til å implementere den tilretteleggingen det legges opp til. |
 | G.3 | Datasett | Det skal jobbes mot at all data som kan ha relevans utenfor egen virksomhet skal deles, fortrinnsvis som åpne data. For data som er begrenset av GDPR- eller konkurransehensyn, eller av andre grunner ikke er klare for å deles, skal informasjonen om dataene deles. |
 
