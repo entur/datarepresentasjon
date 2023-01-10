@@ -8,3 +8,4 @@ Denne oversikten inneholder inspill til neste kvartalsvise revisjon av prinsippe
 - Vurdere om prinsipp "S7 – Innhold" skal tas inn igjen. 
     - Samarbeidet kan tilby avledede dataprodukter, eller tilpassede rådata, som en måte å sikre at flest mulig konsumenter kan ta i bruk dataene. 
         - Kan være mindre data som deles eksternt enn det man har internt. 
+- Hvordan skal domenekunnskap inn i beskrivelsene?
