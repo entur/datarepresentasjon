@@ -1,7 +1,7 @@
 # Prinsipper for deling av data
 
 * Nyeste versjon av prinsippene finnes [her](https://github.com/entur/datarepresentasjon/blob/latest/prinsipper/overordnede_prinsipper.md)
-* Liste med løpende [innspill til neste revisjon](https://github.com/entur/datarepresentasjon/blob/latest/prinsipper/til_neste_revisjon.md) 
+* Liste med løpende [innspill til neste revisjon](https://github.com/entur/datarepresentasjon/blob/main/prinsipper/til_neste_revisjon.md) 
 
 ## Versjonslogg:
 * [Versjon 1.0.0](https://github.com/entur/datarepresentasjon/blob/1.0.0/prinsipper/overordnede_prinsipper.md) godkjent av medlemmene i teknisk fora. Versjonen tilsvarer 0.0.3, da det ikke kom innsigelser på denne. 
