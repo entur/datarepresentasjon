@@ -18,8 +18,10 @@ Prinsippene vil innledningsvis revideres kvartalsvis i regi av prosjektet basert
 | ------- | ------- | ------- |
 | DA.1 | Autonomi | Hver virksomhet kan selv velge interne komponenter, teknologier, og standarder så lenge virksomheten kan dele etter avtalte delingsmekanismer. |
 | DA.2 | Tilgangsstyring | Ved deling av tilgangsstyrt data, må utveksling av tilganger støtte avtalte mekanismer og spesifikasjoner. Evaluering av tilgang må foregå i dataeiers infrastruktur. Virksomhetene som får tilgangsstyrte data og ressurser må sikre dette i egen infrastruktur i henhold til etablerte avtaler. |
-| DA.3 | Stabilitet  | Virksomhetene bør skille på interne og eksterne data for å sikre fleksibilitet til å gjøre interne endringer samtidig som deling av eksterne data er stabil. Tilsvarende bør eksterne data deles slik at det ikke påvirker kritiske interne systemer. |
-| DA.4 | Datakatalog | Virksomhetene må informere om nye ~~datasett~~ dataprodukter som skal deles, og tilgjengeliggjøre korrekt metadata for datakatalog. Samarbeidet bør tilby mekanismer som gjør dette så enkelt og automatisert som mulig. |
+| DA.3 | Stabilitet eksternt | Virksomhetene bør skille på interne og eksterne data for å sikre fleksibilitet til å gjøre interne endringer samtidig som deling av eksterne data er stabil. |
+| DA.4 | Stabilitet internt | Virksomhetene bør dele data slik at det ikke påvirker kritiske interne systemer. |
+| DA.5 | Datakatalog | Virksomhetene må informere om nye ~~datasett~~ dataprodukter som skal deles, og tilgjengeliggjøre korrekt metadata for datakatalog. Samarbeidet bør tilby mekanismer som gjør dette så enkelt og automatisert som mulig. |
+| DA.6 | Varslinger | Delingsmekanismene bør legge til rette for oversikt over hvem som er konsumenter av data for varsling om endringer ved behov. |
 
 
 ## S. Standardisering
