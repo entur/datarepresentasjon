@@ -12,3 +12,5 @@ Denne oversikten inneholder inspill til neste kvartalsvise revisjon av prinsippe
     - Samarbeidet kan tilby avledede dataprodukter, eller tilpassede rådata, som en måte å sikre at flest mulig konsumenter kan ta i bruk dataene. 
         - Kan være mindre data som deles eksternt enn det man har internt. 
     - Lite dekning til å ta på eierskap i prosjektet.
+- Hvordan skal domenekunnskap inn i beskrivelsene?
+    - Tatt inn i S5 beskrivelser
