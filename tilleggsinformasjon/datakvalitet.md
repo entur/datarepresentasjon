@@ -1,6 +1,6 @@
 # Datakvalitet
 
-Dette dokumentet beskriver hvilke kvalitetsmål samarbeidet sammen er kommet frem til basert på føringer gitt i DQV-AP-NO, og videre basert på samarbeidets oppfatning av nødvendig eller relevant kvalitetsinformasjon. 
+Dette dokumentet beskriver anbefalinger til kvalitetsmål prosjektet har kommet frem til gjennom arbeid med datakvalitet. Anbefalingene er gitt for inspirasjon og internt bruk, og er ikke ment å brukes i samarbeidets felles tilnærming til datakvalitet.  
 
 
 ## Beskrivelse av DQV-AP-NO
